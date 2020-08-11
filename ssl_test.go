@@ -25,7 +25,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/spacemonkeygo/openssl/utils"
+	// "github.com/spacemonkeygo/openssl/utils"
+	"github.com/pipprojects/openssl/utils"
 )
 
 var (
